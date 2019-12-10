@@ -1,0 +1,70 @@
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\package-lock.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\package.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.deps.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.runtimeconfig.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.runtimeconfig.dev.json
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.dll
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.pdb
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.Views.dll
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.Views.pdb
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.csprojAssemblyReference.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorAssemblyInfo.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorAssemblyInfo.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.AssemblyInfoInputs.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.AssemblyInfo.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.TagHelpers.input.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.TagHelpers.output.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorCoreGenerate.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorTargetAssemblyInfo.cache
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorTargetAssemblyInfo.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.Views.pdb
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.dll
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.pdb
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.csproj.CopyComplete
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Project\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\package-lock.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\package.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.deps.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.runtimeconfig.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.runtimeconfig.dev.json
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.dll
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.pdb
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.Views.dll
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\bin\Debug\netcoreapp2.2\BI_CM_C1_2020.Views.pdb
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.csprojAssemblyReference.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorAssemblyInfo.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorAssemblyInfo.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.AssemblyInfoInputs.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.AssemblyInfo.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.TagHelpers.input.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.TagHelpers.output.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorCoreGenerate.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorTargetAssemblyInfo.cache
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.RazorTargetAssemblyInfo.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.Views.pdb
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.dll
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.pdb
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\BI_CM_C1_2020.csproj.CopyComplete
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Project\Новая папка (4)\BI_CM_C1_2020\BI_CM_C1_2020\BI_CM_C1_2020\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
